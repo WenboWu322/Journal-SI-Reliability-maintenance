@@ -1,0 +1,2 @@
+seed,N,nb_groups,Avg_tasks/group,CS_cost_before,CS_cost_after,CP_cost,Total_cost,Avg_shift_(abs),Max_shift_(abs),Avg_advance_(days),Avg_delay_(days),pct_advanced_%,pct_delayed_%,pct_unchanged_%,leakage_before,leakage_after,leakage_reduction,leakage_reduction_pct,total_clustering_cpu_s
+1,60,55,3.364,18500,5500,820,6320,0.676,6,1.410,1.500,32.973,14.054,52.973,322.559,322.559,0.000,0.000,0.863
